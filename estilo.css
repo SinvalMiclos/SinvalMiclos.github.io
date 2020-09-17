@@ -201,11 +201,11 @@ footer {
 #Logo{
     margin-left: 0px;
     transform: translateX(50%); 
-}        
+}      
 #Titulo {
-    font-size: 60px;
     padding-top: 30%;
-    padding: 30% 40% 0 30%;
+    padding-left: 2%;
+    padding-right: 2%;
     letter-spacing: -5px;
     padding-bottom: 20px;
     text-align: center;
